@@ -1,2 +1,6 @@
 # Lista de alunos
--Jonas Ferreira
+- Jonas Ferreira
+- Luis Carlos Santos
+- Thiago Borghi Lopes Galvão
+- Henrique
+
