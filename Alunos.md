@@ -5,3 +5,4 @@
 - Thiago Borghi Lopes Galvão
 - Henrique
 - Ricardo
+Rodrigo
