@@ -1,2 +1,4 @@
 # Lista de alunos
--Thiago Borghi Lopes Galvão
+- Thiago Borghi Lopes Galvão
+- Henrique
+
