@@ -1,2 +1,5 @@
 # Lista de alunos
--Luis Carlos Santos
+- Luis Carlos Santos
+- Thiago Borghi Lopes Galvão
+- Henrique
+
